@@ -96,8 +96,8 @@ export const Img = styled.img`
   position: relative;
   width: 55%;
   height: 100%;
-  max-width: 280px;
-  max-height: 500px;
+  
+ 
   border-radius: 6%;
   border: 2px solid ${({ theme }) => theme.primary};
  
