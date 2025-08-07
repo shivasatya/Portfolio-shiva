@@ -7,7 +7,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/shivasatya",
   resume:
-    "https://drive.google.com/file/d/1UBoOocZpfw1TyfAgcDn1xEHnOEhssq7G/view?usp=drivesdk",
+    "https://drive.google.com/file/d/17iIC4PBAmvis4Rcw8bwDVV2i_Ffc-gLj/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/siva-satyanarayana-madala-137693261/",
   insta: "https://www.instagram.com/madhaleshiva/",
   facebook: "https://www.facebook.com/people/Shiva-Chowdary/pfbid037e4wBWJq7DNkM96P4a8nsfPCi8WEzYC98aJsRPsuyouGromZC9QAGC1g8ghLpDqcl/",
