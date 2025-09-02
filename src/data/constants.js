@@ -7,8 +7,8 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/shivasatya",
   resume:
-    "https://drive.google.com/file/d/17iIC4PBAmvis4Rcw8bwDVV2i_Ffc-gLj/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/siva-satyanarayana-madala-137693261/",
+    "https://drive.google.com/file/d/1qEtXDVp6vigfk8OFGQAB7hUV1bKxD2-j/view",
+  linkedin: "https://www.linkedin.com/in/siva--madala/",
   insta: "https://www.instagram.com/madhaleshiva/",
   facebook: "https://www.facebook.com/people/Shiva-Chowdary/pfbid037e4wBWJq7DNkM96P4a8nsfPCi8WEzYC98aJsRPsuyouGromZC9QAGC1g8ghLpDqcl/",
 };
@@ -43,6 +43,11 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
+        name: "Material UI",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpw8ts8fcNyxU-0QEfdSRXwP8mJNX34oKhxg&s",
+      },
+      {
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
@@ -66,6 +71,16 @@ export const skills = [
         name: "Microservices",
         image:
           "https://w1.pngwing.com/pngs/535/256/png-transparent-microservices-text-computer-software-line-circle-area-diagram-symmetry-organization-thumbnail.png",
+      },
+       {
+        name: "JDBC",
+        image:
+          "https://t4.ftcdn.net/jpg/01/35/86/39/360_F_135863993_4yjdcxwtwnJLZ65Oqml9G7ZnHCHttfLn.jpg",
+      },
+       {
+        name: "Hibernate",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png",
       },
       {
         name: "MySQL",
@@ -116,6 +131,16 @@ export const skills = [
         name: "Postman",
         image:
           "https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png",
+      },
+      {
+        name: "Jenkins",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png",
+      },
+      {
+        name: "AWS",
+        image:
+          "https://1000logos.net/wp-content/uploads/2025/03/Amazon-Web-Services-Emblem.png",
       }
     ],
   },
@@ -143,7 +168,7 @@ export const experiences = [
     img: "https://static.vecteezy.com/system/resources/thumbnails/007/252/639/small/labor-law-lawyer-legal-business-internet-technology-concept-photo.jpg",
     role: "Java full stack developer",
     company: "LegalE Innovation Private Limited",
-    date: "April 2023 ",
+    date: "April 2023 to Nov 2024",
     desc: "Working on the Backend and frontend of the web application using java,Spring Boot,microservices ReactJS, and Redux ",
     skills: [
       "JAVA",
@@ -152,6 +177,8 @@ export const experiences = [
       "Microservices",
       "ReactJS",
       "Redux",
+      "AWS",
+      "Jenkins",
       "HTML",
       "CSS",
       "JavaScript",
